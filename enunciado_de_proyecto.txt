@@ -1,4 +1,4 @@
-1. Texto a Voz
+Texto a Voz
 
 La idea de este proyecto es convertir un artículo existente en un archivo de audio reproducible
 en formato mp3. Para ello puedes hacer uso de bibliotecas existenes como nltk (kit de
